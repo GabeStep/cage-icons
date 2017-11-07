@@ -1,0 +1,27 @@
+{
+    "name": "cage-icons",
+    "displayName": "cage icons",
+    "description": "Nicolas Cage Icons",
+    "version": "0.0.1",
+    "publisher": "stepanog",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/natewallace/angular2-inline.git"
+    },
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "icon": "./fileicons/images/file.png",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "iconThemes": [
+			{
+				"id": "cage",
+				"label": "Cage Icons",
+				"path": "./fileicons/cage-icon-theme.json"
+			}
+		]
+    }
+}

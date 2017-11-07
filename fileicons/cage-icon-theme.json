@@ -1,0 +1,37 @@
+{
+	"iconDefinitions": {
+		"_root_folder": {
+			"iconPath": "./images/root_folder_closed.png"
+		},
+		"_root_folder_open": {
+			"iconPath": "./images/root_folder_open.png"
+		},
+		"_folder": {
+			"iconPath": "./images/folder_closed.png"
+		},
+		"_folder_open": {
+			"iconPath": "./images/folder_open.png"
+		},
+		"_file": {
+			"iconPath": "./images/file.png"
+		}
+	},
+
+	"folderExpanded": "_folder_open",
+	"folder": "_folder",
+	"file": "_file",
+	"rootFolderExpanded": "_root_folder_open",
+	"rootFolder": "_root_folder",
+	"fileExtensions": {
+		// icons by file extension
+	},
+	"fileNames": {
+		// icons by file name
+	},
+	"languageIds": {
+		// icons by language id
+	},
+	"highContrast": {
+		// overrides for high contrast
+	}
+}
