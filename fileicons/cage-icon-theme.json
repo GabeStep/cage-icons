@@ -14,6 +14,9 @@
 		},
 		"_file": {
 			"iconPath": "./images/file.png"
+		},
+		"_f_json": {
+		  "iconPath": "./images/json.png"
 		}
 	},
 
@@ -23,7 +26,8 @@
 	"rootFolderExpanded": "_root_folder_open",
 	"rootFolder": "_root_folder",
 	"fileExtensions": {
-		// icons by file extension
+		"json": "_f_json",
+		"json-tmlanguage": "_f_json"
 	},
 	"fileNames": {
 		// icons by file name
