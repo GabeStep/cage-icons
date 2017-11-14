@@ -15,8 +15,20 @@
 		"_file": {
 			"iconPath": "./images/file.png"
 		},
-		"_f_json": {
+		"json": {
 		  "iconPath": "./images/json.png"
+		},
+		"html": {
+		  "iconPath": "./images/html.png"
+		},
+		"csharp": {
+		  "iconPath": "./images/csharp.png"
+		},
+		"css": {
+		  "iconPath": "./images/css.png"
+		},
+		"javascript": {
+		  "iconPath": "./images/javascript.png"
 		}
 	},
 
@@ -26,14 +38,24 @@
 	"rootFolderExpanded": "_root_folder_open",
 	"rootFolder": "_root_folder",
 	"fileExtensions": {
-		"json": "_f_json",
-		"json-tmlanguage": "_f_json"
+		"json": "json",
+		"json-tmlanguage": "json",
+		"html": "html",
+		"htm": "html",
+		"html_vm": "html",
+		"asp": "html",
+		"cs": "csharp",
+		"css": "css",
+		"js": "javascript",
+		"ejs": "javascript",
+		"esx": "javascript"
 	},
 	"fileNames": {
 		// icons by file name
 	},
 	"languageIds": {
-		// icons by language id
+		"javascript": "javascript",
+		"css": "css"
 	},
 	"highContrast": {
 		// overrides for high contrast
